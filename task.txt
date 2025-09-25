@@ -1,0 +1,15 @@
+Task 9: Business Insights & Executive Report for 
+E-Commerce Dataset 
+Description:
+ Dataset (Recommended): Brazilian E-Commerce Public Dataset by Olist (Kaggle)  
+Conduct a full-cycle analysis on an e-commerce dataset 
+Clean and preprocess sales, product, and customer data 
+Perform EDA and segmentation, visualize patterns, and generate actionable business insights 
+Present your findings in a professional report or interactive dashboard
+ Tools & Libraries:
+ Python
+ Python, Excel, Power BI or Tableau (you can use any of them)
+ Covered Topics
+ End-to-end analytics workflow  |   Business storytelling   |   Decision-oriented reporting
+ Bonus:
+ Include a slide or one-pager executive summary with your final submission
